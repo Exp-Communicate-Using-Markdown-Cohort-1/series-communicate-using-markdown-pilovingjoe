@@ -6,3 +6,5 @@ int main(){
   return 0;
 }
 ```
+- [x] Make a list
+- [ ] Check it twice
